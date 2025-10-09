@@ -1,4 +1,5 @@
-export { default as LogoIcon } from "./C.svg"
+// `C.svg` was missing; use `purpleWave.svg` as a safe placeholder for LogoIcon.
+export { default as LogoIcon } from "./purpleWave.svg"
 export { default as PurpleWave } from "./purpleWave.svg"
 export { default as ContactArt } from "./ContactVector.svg"
 

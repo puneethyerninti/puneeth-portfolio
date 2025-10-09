@@ -16,11 +16,13 @@ p {
 }
 
 img {
+    -webkit-user-select: none;
     user-select: none;
     pointer-events: none;
 }
 
 .selectable p {
+    -webkit-user-select: text;
     user-select: text;
     cursor: text;
 }
