@@ -120,8 +120,8 @@ export const ProjectsList: ProjectType[] = [
     Mockup: undefined,
     Theme: "#140622",
     Status: "completed",
-    Link: "https://your-portfolio-link.vercel.app",
-    Source: "https://github.com/puneethyerninti/portfolio",
+    Link: "https://puneeth-portfolio-blush.vercel.app/",
+    Source: "https://github.com/puneethyerninti/puneeth-portfolio",
     Tech: [
       Tech.Astro,
       Tech.React,
